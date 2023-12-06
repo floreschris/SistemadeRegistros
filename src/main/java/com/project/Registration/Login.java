@@ -48,7 +48,6 @@ public class Login extends JFrame {
 		textDirection.setText("");
 		textEmail.setText("");
 		textGender.setText("");
-		textLastName.setText("");
 		textPhone.setText("");
 	}
 

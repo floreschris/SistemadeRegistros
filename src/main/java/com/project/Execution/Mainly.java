@@ -87,14 +87,9 @@ public class Mainly extends JFrame {
 		lblNewLabel_1.setBounds(265, 11, 709, 216);
 		contentPane.add(lblNewLabel_1);
 		
-		JLabel lblNewLabel = new JLabel("");
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\Usuario\\OneDrive - Universidad Tecnologica del Peru\\Desktop\\Interfaces\\logoLuxu.jpg"));
-		lblNewLabel.setBounds(-96, 11, 333, 256);
-		contentPane.add(lblNewLabel);
-		
 		JLabel nFondoGeneral = new JLabel("");
-		nFondoGeneral.setIcon(new ImageIcon("C:\\Users\\Usuario\\OneDrive - Universidad Tecnologica del Peru\\Desktop\\Interfaces\\fondo.jpg"));
-		nFondoGeneral.setBounds(0, 0, 1511, 637);
+		nFondoGeneral.setIcon(new ImageIcon("C:\\Users\\Usuario\\eclipse-workspace\\System_Venta\\src\\com\\project\\img\\concepto-de-sistema-crm-gestión-relaciones-con-el-cliente-para-marketing-comercial-clientes-ventas-negocios-presentado-en-la-202504100.jpg"));
+		nFondoGeneral.setBounds(0, 0, 1511, 725);
 		contentPane.add(nFondoGeneral);
 		
 		JLabel lblNewLabel_3 = new JLabel("");
